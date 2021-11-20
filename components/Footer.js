@@ -32,7 +32,7 @@ const Footer = () => {
           <p>Trust & Safety</p>
           <p>our covid-19 response</p>
           <p>help center</p>
-          <p>neighbourhood support </p>
+          <p>neighbour hood support </p>
         </div>
       </div>
       <div className="text-center border-t bg-gray-100 p-4">
